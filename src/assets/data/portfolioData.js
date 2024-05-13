@@ -8,7 +8,7 @@ import landingPage from '../images/Screenshot (176).png'
 export const portfolios = [
   {
     id: "01",
-    imgUrl: rbustoreimg,
+    imgUrl: "https://res.cloudinary.com/dfsaqfu7u/image/upload/v1715625843/hgnvtjxwnruqwsjxovua.png",
     category: "E-COMMERCE",
     title: " ECOMMERCE-RBU",
     description:
@@ -18,7 +18,7 @@ export const portfolios = [
   },
   {
     id: "02",
-    imgUrl: doctorimg,
+    imgUrl: "https://res.cloudinary.com/dfsaqfu7u/image/upload/v1715625842/xmpttmucyzdnrkacjz5e.png",
     category: "Full stack",
     title: "Blog Website Website",
     description: "Our appointment booking website provides a seamless platform for users to connect with healthcare professionals and schedule appointments effortlessly. Users can search for doctors based on specialty, location, and availability, browse detailed profiles, and book appointments at their convenience. With intuitive scheduling tools and real-time communication features, our platform streamlines the appointment booking process, ensuring a smooth experience for both users and healthcare providers. Whether it's for routine check-ups, consultations, or follow-up appointments, our website simplifies the way users access quality healthcare services.",
@@ -28,7 +28,7 @@ export const portfolios = [
   },
   {
     id: "03",
-    imgUrl: landingPage,
+    imgUrl: "https://res.cloudinary.com/dfsaqfu7u/image/upload/v1715625842/zfvvzqpxfsyxo2tsmemh.png",
     category: "Ux",
     title: "Landing Page",
     description:
@@ -38,7 +38,7 @@ export const portfolios = [
   },
   {
     id: "04",
-    imgUrl: blodWebsite,
+    imgUrl: "https://res.cloudinary.com/dfsaqfu7u/image/upload/v1715625842/zb10crfd7vc0hebyjkto.png",
     category: "Web Design",
     title: "Doctor Booking-website",
     description:

@@ -89,9 +89,9 @@ export const Hero = () => {
 
           {/* hero img */}
 
-          <div className="basis-1/4 mt-10 sm:mt-0">
+          <div className=" relative sm:top-[-90px] basis-8/12  sm:mt-0">
             <figure className=" flex items-center justify-center">
-              <img src={heroImg} alt="" />
+              <img src="https://res.cloudinary.com/dfsaqfu7u/image/upload/v1715626601/jrtnpgtawaewciifluov.png" alt="" />
             </figure>
           </div>
           {/* hero img end */}
